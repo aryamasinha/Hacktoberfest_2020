@@ -1,6 +1,6 @@
 HOW TO CONTRIBUTE :
 
-1. Fork the repository.
+1. Fork the repository and create a new branch.
 
 2. Solve the Codechef practice question (mentioned in the issue) on the codechef platform. 
 
