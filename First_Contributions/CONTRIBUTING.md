@@ -10,4 +10,4 @@ HOW TO CONTRIBUTE :
 
 5. Create a PR mentioning the issue ID.
 
-6. Be among the first 75,000 participants to complete the challenge to get a limited edition T-shirt or plant a tree.
+6. Be among the first 75,000 participants to complete the challenge by making four valid pull requests (PRs) between October 1-31 (in any time zone) to get a limited edition T-shirt or plant a tree.
