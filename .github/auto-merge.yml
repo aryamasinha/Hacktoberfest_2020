@@ -16,7 +16,6 @@ blockingLabels:
 
 requiredReviewers:
 - aryamasinha
-- abhishekraj272
 
 # Will merge whenever the above conditions are met, but also
 # the owner has approved or merge label was added.
