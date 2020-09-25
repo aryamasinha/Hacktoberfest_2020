@@ -26,4 +26,6 @@ rules:
 - requiredLabels:
   - merge
 
-mergeCommitMessage: "Auto-Merge bot merged {title} (#{number})"
+requiredBodyRegex: '(^|\\s)Closes #($|\\s)'
+
+mergeCommitMessage: "Bot merged {title} (#{number})"
