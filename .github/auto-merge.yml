@@ -14,8 +14,6 @@ blockingLabels:
 - blocked
 
 
-requiredReviewers:
-- aryamasinha
 
 # Will merge whenever the above conditions are met, but also
 # the owner has approved or merge label was added.

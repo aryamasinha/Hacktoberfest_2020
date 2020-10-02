@@ -12,6 +12,8 @@ HOW TO CONTRIBUTE :
 
 6. It is recommended to attach a screenshot of the question solved on the codechef platform in order to make the review process faster.
 
-7. Be among the first 75,000 participants to complete the challenge by making four valid pull requests (PRs) between October 1-31 (in any time zone) to get a limited edition T-shirt or plant a tree.
+7. Wait for your previous PR to be merged before working on the next issue.
+
+8. Be among the first 75,000 participants to complete the challenge by making four valid pull requests (PRs) between October 1-31 (in any time zone) to get a limited edition T-shirt or plant a tree.
 
 P.S : As this is a repository where beginners get a chance to participate , please try not making more than four PRs/person. :P
