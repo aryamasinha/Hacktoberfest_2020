@@ -24,6 +24,6 @@ rules:
 - requiredLabels:
   - merge
 
-requiredBodyRegex: '(^|\\s)Closes #($|\\s)'
+
 
 mergeCommitMessage: "Bot merged {title} (#{number})"
