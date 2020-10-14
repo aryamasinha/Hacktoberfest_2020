@@ -60,5 +60,5 @@ int main(void)
     }//end for
 
     getchar ( );
-    return (0);
+    return ( 0 );
 } //end main
